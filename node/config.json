@@ -1,0 +1,9 @@
+{
+    "maxUsedPods": 15,
+    "availableFlavors": [
+        "vanilla",
+        "caramel",
+        "decaf",
+        "regular"
+    ]
+}
